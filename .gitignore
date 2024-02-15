@@ -1,0 +1,12 @@
+ecomm-env/
+.pytest_cache
+**__pycache__/
+db.sqlite3
+.env
+.coverage
+.vscode
+htmlcov/
+schema.yml
+*-commands.md
+.DS_store
+.pre-commit-config.yaml
