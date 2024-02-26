@@ -11,3 +11,4 @@ schema.yml
 .DS_store
 .pre-commit-config.yaml
 .appspec.yml
+htmlcov/
